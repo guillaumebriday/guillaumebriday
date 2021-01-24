@@ -1,6 +1,6 @@
 👋 Hey
 
-My name is Guillaume and I'm a love the Web.
+My name is Guillaume and I love the Web.
 
 I'm mainly a Ruby and Rails developer working with Stimulus and VueJS. I'm also doing DevOps and Laravel stuff.
 
