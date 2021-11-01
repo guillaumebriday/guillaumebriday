@@ -2,7 +2,7 @@
 
 My name is Guillaume and I love the Web.
 
-I'm mainly a Ruby and Rails developer [@perangusta](https://www.per-angusta.com/en/) working with Stimulus and VueJS. I'm also doing DevOps and Laravel stuff.
+I'm mainly a Ruby and Rails developer at [@perangusta](https://www.per-angusta.com/en/) working with Stimulus and VueJS. I'm also doing DevOps and Laravel stuff.
 
 💻 Here's a few of the projects I'm working on:
 
