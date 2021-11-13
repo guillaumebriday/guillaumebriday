@@ -27,6 +27,7 @@ You can follow me on Twitter [@guillaumebriday](https://twitter.com/guillaumebri
 
 If you like my work and want me to be able to keep improving it, please [sponsor me on GitHub](https://github.com/sponsors/guillaumebriday).
 
+- [Liberatys](https://github.com/Liberatys)
 - [ferrisoxide](https://github.com/ferrisoxide)
 - [blafri](https://github.com/blafri)
 
