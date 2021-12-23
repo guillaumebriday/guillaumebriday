@@ -29,7 +29,6 @@ If you like my work and want me to be able to keep improving it, please [sponsor
 
 - [Liberatys](https://github.com/Liberatys)
 - [ferrisoxide](https://github.com/ferrisoxide)
-- [blafri](https://github.com/blafri)
 
 📊 My Stats
 
