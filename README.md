@@ -9,7 +9,7 @@ I'm mainly a Ruby and Rails developer at [@perangusta](https://www.per-angusta.c
 - [Stimulus-components](https://github.com/stimulus-components/stimulus-components) - A Stimulus library delivering common JavaScript behaviors with a bunch of customizable controllers. 
 - [laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel blog application with Vue.js, Homestead, Horizon, Telescope and Pusher.
 - [jsonapi-scopes](https://github.com/guillaumebriday/jsonapi-scopes) - This gem allows you to include, filter and sort an ActiveRecord relation based on a request.
-- [Webpacker](https://github.com/rails/webpacker) - Maintainer of the Rails' Webpacker project.
+- [Webpacker](https://github.com/rails/webpacker) - Core contributor of the Rails' Webpacker project.
 - [Modern Datatables](https://github.com/guillaumebriday/modern-datatables) - Do we really need to add the complexity of JavaScript frameworks like Vue.js or React? 
 - [Timecop App](https://timecop-app.com/) - Timecop is a time tracking app that brings simplicity in your day to day life.
 - [Blog](https://guillaumebriday.fr/) - My blog.
@@ -27,7 +27,6 @@ You can follow me on Twitter [@guillaumebriday](https://twitter.com/guillaumebri
 
 If you like my work and want me to be able to keep improving it, please [sponsor me on GitHub](https://github.com/sponsors/guillaumebriday).
 
-- [Liberatys](https://github.com/Liberatys)
 - [ferrisoxide](https://github.com/ferrisoxide)
 
 📊 My Stats
