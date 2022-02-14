@@ -29,6 +29,7 @@ If you like my work and want me to be able to keep improving it, please [sponsor
 
 - [ferrisoxide](https://github.com/ferrisoxide)
 - [ShawnAukstak](https://github.com/ShawnAukstak)
+- [EquipeTechnique](https://github.com/EquipeTechnique)
 
 📊 My Stats
 
