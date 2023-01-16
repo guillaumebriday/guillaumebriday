@@ -2,7 +2,7 @@
 
 My name is Guillaume and I love the Web.
 
-I'm mainly a Ruby and Rails developer at [@perangusta](https://www.per-angusta.com/en/) working with Stimulus and VueJS. I'm also doing DevOps and Laravel stuff.
+I'm mainly a Ruby and [Rails](https://rubyonrails.org/) developer at [@perangusta](https://www.per-angusta.com/en/) working with [Stimulus](https://stimulus.hotwired.dev/), [Hotwire](https://hotwired.dev/) and [VueJS](https://vuejs.org/). I'm also doing DevOps and Laravel stuff.
 
 💻 Here's a few of the projects I'm working on:
 
@@ -16,6 +16,7 @@ I'm mainly a Ruby and Rails developer at [@perangusta](https://www.per-angusta.c
 
 🎙 My recent Podcast episodes
 
+- [Architecture monolithique et boring tech avec Rails 🇫🇷](https://guillaumebriday.fr/podcast/architecture-monolithique-et-boring-tech-avec-rails)
 - [Remote dans la tech, que faut-il en penser ? 🇫🇷](https://guillaumebriday.fr/podcast/remote-dans-la-tech-que-faut-il-en-penser)
 - [Au secours, mon hébergeur a pris feu 🇫🇷](https://guillaumebriday.fr/podcast/au-secours-mon-hebergeur-a-pris-feu)
 
