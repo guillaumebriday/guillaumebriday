@@ -10,7 +10,8 @@ I'm mainly a Ruby and [Rails](https://rubyonrails.org/) developer at [@perangust
 - [laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel blog application with Vue.js, Homestead, Horizon, Telescope and Pusher.
 - [jsonapi-scopes](https://github.com/guillaumebriday/jsonapi-scopes) - This gem allows you to include, filter and sort an ActiveRecord relation based on a request.
 - [Webpacker](https://github.com/rails/webpacker) - Core contributor of the Rails' Webpacker project.
-- [Modern Datatables](https://github.com/guillaumebriday/modern-datatables) - Do we really need to add the complexity of JavaScript frameworks like Vue.js or React? 
+- [Modern Datatables](https://github.com/guillaumebriday/modern-datatables) - Do we really need to add the complexity of JavaScript frameworks like Vue.js or React?
+- [Kamal Ansible Manager](https://github.com/guillaumebriday/kamal-ansible-manager) - Manage and optimize your servers automatically for Kamal with Ansible.
 - [Timecop App](https://timecop-app.com/) - Timecop is a time tracking app that brings simplicity in your day to day life.
 - [Blog](https://guillaumebriday.fr/) - My blog.
 
