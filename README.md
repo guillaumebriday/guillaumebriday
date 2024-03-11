@@ -30,7 +30,6 @@ You can follow me on Twitter [@guillaumebriday](https://twitter.com/guillaumebri
 If you like my work and want me to be able to keep improving it, please [sponsor me on GitHub](https://github.com/sponsors/guillaumebriday).
 
 - [ferrisoxide](https://github.com/ferrisoxide)
-- [ShawnAukstak](https://github.com/ShawnAukstak)
 
 📊 My Stats
 
